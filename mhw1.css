@@ -1,0 +1,158 @@
+body {
+  margin: 0;
+}
+
+header {
+  height: 70px;
+  background-color: white;
+}
+
+.wrapper-header {
+  display: flex;
+  height: 55px;
+  margin-right: 145px;
+  margin-left: 145px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.images-m2o {
+  display: flex;
+  height: 55px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+.wrapper-header-center {
+  display: flex;
+  height: 55px;
+  margin-right: 163px;
+  margin-left: 163px;
+}
+.wrapper-header-left {
+  display: flex;
+  height: 55px;
+  padding-right: 5px;
+  margin-right: 10px;
+}
+
+.wrapper-header-right {
+  display: flex;
+  height: 55px;
+  padding-left: 5px;
+  margin-left: 15px;
+}
+.distance {
+  padding-top: 20px;
+  margin-left: 9px;
+  margin-right: 9px;
+  font-family: "Trebuchet MS";
+}
+
+#background-image {
+  background-image: url(images/bgd_background_mdueo.png);
+  background-repeat: repeat-y;
+  background-size: 1350px;
+}
+
+#sotto-header {
+  margin-top: 0px;
+  height: 160px;
+  margin-left: 145px;
+  margin-right: 145px;
+  padding-left: 30px;
+  padding-right: 30px;
+  background-color: white;
+}
+
+.onair {
+  padding-top: 50px;
+  padding-left: 138px;
+  font-size: 60px;
+  font-family: "Trebuchet MS";
+  margin: 0px;
+}
+.sotto-onair {
+  font-size: 18px;
+  padding-left: 138px;
+  font-family: "Trebuchet MS";
+  margin: 0px;
+  color: rgb(161, 156, 156);
+}
+
+#ragazza {
+  height: 330px;
+  margin-left: 360px;
+}
+
+#video-centrale {
+  margin-top: 0px;
+  height: 330px;
+  background-color: rgb(255, 255, 255);
+}
+
+#wrapper-center {
+  display: flex;
+  margin-left: 165px;
+  margin-right: 153px;
+  margin-top: 60px;
+  padding-left: 10px;
+  padding-right: 10px;
+  height: 600px;
+}
+
+#distance-foto {
+  margin-top: 70px;
+  margin-left: 200px;
+  font-family: "Trebuchet MS";
+}
+
+.foto {
+  display: flex;
+  justify-content: center;
+  margin: 25px;
+}
+
+div {
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-left: 0px;
+  height: 1200px;
+}
+
+footer {
+  margin-top: 0px;
+  height: 200px;
+  background-color: rgb(250, 249, 249);
+  padding-top: 50px;
+  padding-bottom: 100px;
+}
+
+.wrapper-footer {
+  height: 50px;
+  margin-right: 40px;
+  margin-left: 40px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.logo-footer-distance {
+  margin-left: 600px;
+  margin-right: 600px;
+}
+
+.social {
+  height: 35px;
+  margin-top: 15px;
+  margin-left: 450px;
+}
+.distance-social {
+  margin: 15px;
+}
+
+.distance-note {
+  margin-left: -180px;
+}
+
+.note {
+  margin: 10px;
+  font-family: "Trebuchet MS";
+}
